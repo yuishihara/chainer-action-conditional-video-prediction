@@ -1,3 +1,6 @@
+# chainer-action-conditional-video-prediction
+Reproduction codes of Action Conditional Video Prediction using Deep Networks in Atari Games with chainer
+
 # About
 
 This is a reproduction code of "Action Conditional Video Prediction using Deep Networks in Atari Games" proposed by Oh et al.
