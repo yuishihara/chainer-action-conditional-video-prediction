@@ -20,7 +20,7 @@ by the original author.
 
 ### Video
 
-![Feedforward result](https://raw.githubusercontent.com/yuishihara/Reproductions/master/action-conditional-video-prediction/trained_results/feedforward/result.gif)
+![Feedforward result](https://raw.githubusercontent.com/yuishihara/chainer-action-conditional-video-prediction/master/trained_results/feedforward/result.gif)
 
 ## LSTM version
 
@@ -31,4 +31,4 @@ The video shown below are final result of 1step training after 1M steps.
 
 ### Video
 
-![LSTM result](https://raw.githubusercontent.com/yuishihara/Reproductions/master/action-conditional-video-prediction/trained_results/lstm/result.gif)
+![LSTM result](https://raw.githubusercontent.com/yuishihara/chainer-action-conditional-video-prediction/master/trained_results/lstm/result.gif)
